@@ -6,8 +6,7 @@
 ---
 
 ## 🔗 Enlaces del Proyecto
-* 🌐 **Página Web:** [Ver Proyecto Publicado](https://yhercobarco0.github.io/desafio_Optiomicacion_Recursos-en-Sistemas-Informticos/)
-* 💻 **Repositorio:** [Ver Código Fuente](https://github.com/yhercobarco0/desafio_Optiomicacion_Recursos-en-Sistemas-Informticos.git)
+* 🌐 **Página Web:** [Ver Proyecto Publicado](https://yhercobarco0.github.io/DESAFIO-FINAL-METODOS-NUMERICOS-/)
 
 ---
 
